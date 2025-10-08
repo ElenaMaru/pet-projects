@@ -1,4 +1,4 @@
-# Портфолио пэт проектов Марушкиной Е.П.
+# Портфолио пэт-проектов Марушкиной Е.П.
 | Название проекта | Описание |Стек и методы |
 | --- | --- | --- |
 | [credit_card_fraud](https://github.com/ElenaMaru/pet-projects/tree/main/credit_card_fraud) | Анализ датасета с данными о мошеннических операциях с банковскими картами и построение модели прогноза. | sklearn, seaborn, RandomForestClassifier, SMOTE, RandomOverSampler|
